@@ -19,6 +19,23 @@ body{
 h1{
     margin: 10px;
 }
+/* this styling for box designing part */
+.box{
+    background-color: slateblue;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 5px rgba(0,0,0,0.3);
+    /* transform: translateX(200%); */
+    /* transition: transform 0.4s ease; */
+}
+
+
 
 
 
